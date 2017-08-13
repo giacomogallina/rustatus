@@ -1,0 +1,8 @@
+[package]
+name = "rustatus"
+version = "0.1.0"
+authors = ["giacomo"]
+
+[dependencies]
+systemstat = "0.1.2"
+i3ipc = "0.5.0"
